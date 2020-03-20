@@ -1,6 +1,6 @@
 # fm_mailchimp
 
-This module provides some basic communication with your instance of Mailchimp via the Mailchimp API, allowing a developer to build Mailchimp capabilities into their own application. This modiule can be used by either by using this file directly within your FileMaker application, or by copying the entire "mailchimp" module folder into your own FileMaker file. In either case, you'll need to configure the module by making modifications to each of the scripts in the "mailchimp configuration" folder. Follow the instructions in each of the configuration scripts.
+This module provides some basic communication with your instance of Mailchimp via the Mailchimp API, allowing a developer to build Mailchimp capabilities into their own application. This modiule can be used by either by using the MailchimpModule.fmp12 file directly within your FileMaker application, or by copying all the scripts in the "mailchimp" module folder into your own FileMaker file. In either case, you'll need to configure the module by making modifications to each of the scripts in the "mailchimp configuration" folder. Follow the instructions in each of the configuration scripts.
 
 Mailchimp API Reference ==> https://mailchimp.com/developer/reference/
 
